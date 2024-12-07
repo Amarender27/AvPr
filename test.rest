@@ -1,0 +1,3 @@
+### sendInvoicetoCustomer  getInvoiceasPDF invoiceId=154
+GET http://localhost:3005/api/services/getServices
+Content-Type: application/json
